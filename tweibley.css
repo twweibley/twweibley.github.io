@@ -1,0 +1,19 @@
+body{
+	background-color: yellow;
+}
+header{
+	background-color: green;
+}
+#content{
+	background-color: oragne;
+	left: all;
+}
+footer{
+	background-color: lightskyblue;
+	color: white;
+}
+header,#content, footer{
+	border-style: solid;
+	border-width: 1px;
+	border-color: darkgreen;
+}
