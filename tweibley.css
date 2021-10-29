@@ -23,4 +23,8 @@ header,#content, footer{
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
-	box-shadow: 5px 5px 5px black; 
+	box-shadow: 5px 5px 5px black;
+}
+img{
+	left: all;
+}
