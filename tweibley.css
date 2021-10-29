@@ -7,6 +7,8 @@ header{
 #content{
 	background-color: orange;
 	left: all;
+	padding: 2px; 
+	min-height: 200px;
 }
 footer{
 	background-color: lightskyblue;
@@ -17,3 +19,8 @@ header,#content, footer{
 	border-width: 1px;
 	border-color: darkgreen;
 }
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	box-shadow: 5px 5px 5px black; 
